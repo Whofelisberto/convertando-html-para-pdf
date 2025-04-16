@@ -1,0 +1,31 @@
+body {
+  margin: 50px;
+  padding: 20px;
+  width: 950px;
+  height: 1050px;
+  border: 2px solid;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
+button {
+  margin: 20px;
+  padding: 5px;
+}
+main {
+}
+.boku {
+  position: relative;
+  right: -250px;
+}
+
+p {
+  font-family: sans-serif;
+  font-style: italic;
+  font-size:small;
+}
+
+.content {
+  margin-left: 10px;
+}
