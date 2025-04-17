@@ -1,3 +1,5 @@
+// função para baixar o arquivo em pdf, manipulando seus parâmetros.
+
 function downloadPdf() {
   const item = document.querySelector(".content");
 
